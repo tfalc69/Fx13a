@@ -1,0 +1,1 @@
+# Główny kod aplikacji FX13X1Bot

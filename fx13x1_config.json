@@ -1,0 +1,10 @@
+{
+    "api_key": "",
+    "api_secret": "",
+    "exchange": "Binance",
+    "initial_balance": 1000,
+    "max_loss": 5,
+    "progression_multiplier": 1.5,
+    "auto_transfer_threshold": 500,
+    "data_refresh_rate": 10
+}
